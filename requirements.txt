@@ -2,4 +2,3 @@ streamlit
 boto3 
 tqdm
 yt_dlp
-string
